@@ -2,6 +2,9 @@
 
 3 instructions
 
-attack red slime
-attack blue slime
-attack green slime
+attack red slime  
+
+attack blue slime  
+
+attack green slime  
+
