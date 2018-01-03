@@ -8,3 +8,4 @@ attack blue slime
 
 attack green slime  
 
+![Alt text](show-fsm.png)
